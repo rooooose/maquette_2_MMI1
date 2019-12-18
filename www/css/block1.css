@@ -1,0 +1,94 @@
+.wrap1
+{
+	max-width:640px;
+	margin-left: auto;
+	margin-right:auto;
+	padding: 120px 40px;
+}
+
+header
+{
+	text-align:center;
+}
+
+header p
+{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1
+{
+	font-family: 'Arvo', serif;
+	font-size: 48px;
+	line-height: 60px;
+	padding-top:50px;
+	padding-bottom:56px;
+}
+
+.date
+{
+	font-size: 14px;
+	color: #bbbbbb ;
+}
+
+.infos
+{
+	font-family: 'Arvo', serif;
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	padding-bottom: 85px;
+	font-size: 12px;
+}
+
+.by
+{
+	font-family: 'Arvo', serif;
+	color: #bbbbbb ;
+	margin-right: 6px;
+}
+
+.slava
+{
+	font-weight: bold;
+	color:#757575;
+	letter-spacing: 3px;
+}
+
+.icone
+{
+	margin-right: 6px;
+	margin-left: 20px;
+	font-weight: bold;
+	color:#757575;
+}
+
+.nb
+{
+	font-weight: bold;
+	color:#757575;
+	letter-spacing: 3px;
+}
+
+.texte
+{
+	color: #bbbbbb ;
+	line-height: 32px;
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

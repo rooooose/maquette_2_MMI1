@@ -1,0 +1,49 @@
+.sectionbloc6 {
+  width: 100%;
+  display:flex;
+  justify-content: center;
+  position:relative;
+  margin-bottom:120px;
+}
+
+.main-carousel1 {
+  width: 84%;
+}
+
+.main-carousel1 ol
+{
+  display:none;
+}
+
+#count
+{
+  position:absolute;
+  bottom:32px;
+  right:140px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:bold;
+  color: white;
+  font-size:12px;
+  display: flex;
+  align-items:center;
+}
+
+.previous
+{
+  margin-right: 20px;
+}
+
+.next
+{
+  margin-left: 20px;
+}
+
+.span1
+{
+  margin-right: 3px;
+}
+
+.span2
+{
+  margin-left: 3px;
+}
